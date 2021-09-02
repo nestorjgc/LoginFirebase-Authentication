@@ -15,7 +15,7 @@ This program was made to keep track of a Ping Pong match for 2 players.
   - If P1 or P2 wins, score will be green. For the player that loses, it will display red.
 
 ## Preview
-![Alt Text](https://github.com/nestorjgc/PingPongScore/blob/main/imgs/gif.gif)
+![Alt Text](https://github.com/nestorjgc/LoginFirebase/blob/main/imgs/Beta1.gif)
 ##
 
 ## Nestor Garcia
