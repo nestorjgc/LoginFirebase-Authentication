@@ -1,18 +1,20 @@
 # LoginFireBase
 
 ## Introduction
-This program was made to keep track of a Ping Pong match for 2 players.
-
+Login for admin/users that are registered with firebase.
 ## Technologies Used
+- Firebase
 - JavaScript
-- Bulma
 - CSS
 - HTML
 
+## Live: https://virtuallytestingbeta.web.app/
+## Credentials: 
+- email: beta@hotmail.com
+- password: 123456
 ## Features:
-  - Users can choose how many point to win the game.
-  - After the goal is reached, users can loop the game and start over.
-  - If P1 or P2 wins, score will be green. For the player that loses, it will display red.
+  - Users can only login if they are registered.
+  - If email/password don't match registration => error.
 
 ## Preview
 ![Alt Text](https://github.com/nestorjgc/LoginFirebase/blob/main/imgs/Beta1.gif)
