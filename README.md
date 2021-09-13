@@ -20,5 +20,5 @@ Login for admin/users that are registered with firebase.
 ![Alt Text](https://github.com/nestorjgc/LoginFirebase/blob/main/imgs/Beta1.gif)
 ##
 
-## Nestor Garc
+## Nestor Garcia
 
